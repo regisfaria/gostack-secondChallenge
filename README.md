@@ -1,4 +1,4 @@
-# Rocketseat Challenge #2
+# GoStack Challenge #2
 
 ## Overview 
   This repository was made to submit a challenge for [Rocketseat](https://rocketseat.com.br/) goStack bootcamp.
